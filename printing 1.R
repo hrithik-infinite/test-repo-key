@@ -1,3 +1,3 @@
 print('this is created in r studio')
 
-print('now i lives in github')
+print('now k lives in github')
